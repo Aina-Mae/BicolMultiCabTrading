@@ -31,7 +31,7 @@ Bicol Multicab Trading specializes in **buying and selling** high-quality multic
 
 ```
 /bicol-multicab-trading
-│── index.html      # Main webpage
+│── bmctwp.html      # Main webpage
 │── background.jpg  # Background image (Replace with your own)
 │── pickup.png      # Image for Multicab Pickup
 │── minivan.png     # Image for Mini Van
